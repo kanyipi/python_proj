@@ -1,0 +1,7 @@
+flag,value,type,filtertype
+school,school,way,amenity
+school,school,rel,amenity
+school,school,node,amenity
+school,school,way,building
+school,school,rel,building
+school,school,node,building
